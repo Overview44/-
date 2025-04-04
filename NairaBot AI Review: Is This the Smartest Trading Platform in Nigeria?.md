@@ -4,6 +4,17 @@ In the ever-evolving world of financial technology, **NairaBot AI** is making wa
 
 Visit the [official NairaBot AI website](https://nairabot-ai.com/) to learn more.
 ---
+Below is a quick fact sheet that summarizes key points about NairaBot AI:
+
+| **Feature**                         | **Details**                                                  |
+|-------------------------------------|--------------------------------------------------------------|
+| **Platform Type**                   | Trading platform                                             |
+| **Key Features**                    | Real-time market analysis, user-friendly interface, mobile accessibility, customizable alerts, multiple asset trading |
+| **Supported Devices**               | Desktop, tablet, mobile                                      |
+| **Minimum Deposit**                 | Competitive and accessible for beginners                     |
+| **Availability**                    | Available in multiple countries across the globe             |
+| **Customer Support**                | 24/7 live support and comprehensive help center              |
+| **Overall Verdict**                 | A reliable and feature-rich platform with some common drawbacks |
 
 ## What is NairaBot AI?
 
